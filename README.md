@@ -1,6 +1,6 @@
-This is the task#6 of the internship performed under the domain Web Development & Designing by The Sparks Foundation.
+This is the task#3 of the internship performed under the domain Web Development & Designing by The Sparks Foundation.
 
-TASK 6: Payment Gateway Integration
+TASK 3: Payment Gateway Integration
 IDE: VS Code
 SOFTWARE: HTML5, CSS, 
 WEBHOST: 000webhost
